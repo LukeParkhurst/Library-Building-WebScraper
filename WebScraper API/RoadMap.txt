@@ -1,0 +1,13 @@
+V 1.0 - scrape a single webpage for its html content using two different possible libraries and write to a file
+V 1.1 - scrape a webpage for specific desired tags and retrieve data inside the tags
+
+V 2.0 - Clean raw data file and export as text file
+V 2.1 - Options to remove duplicate data (for library building purposes) and option to remove stop words
+V 2.2 - ability to export data as text, json, or csv
+V 2.3 - ability to export as xml
+
+V 3.0 - Introduce web mapping to scrape whole websites
+V 3.1 - allow multiple files from the website's different webpages be conglomerated into a single raw data file
+V 3.2 - automatic web mapping as the scraper works
+
+V 4.0 (optional) - implement multi-threading to have multiple scrapers work on multiple given sites before

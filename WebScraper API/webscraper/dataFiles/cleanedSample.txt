@@ -1,0 +1,32 @@
+31012345678910111213141516171819202122232425262728293031Market-leading web scraping solutions for large-scale public data gathering
+Proxies
+Datacenter Proxies
+The highest performing proxies on the market
+Best for: cybersecurity, market research, brand protection, email protection.
+Residential Proxies
+Human-like scraping without IP blocking
+Best for: ad verification, load testing, review monitoring.
+Next-Gen Residential Proxies
+AI and ML based solution for efficient web scraping
+Best for: price monitoring, travel fare aggregation, alternative data.
+Scraper APIs
+SERP Scraper API
+Scalable SERP data delivery from major search engines
+Best for: SEO & keyword monitoring, intellectual property protection.
+E-Commerce Scraper API
+Enterprise-level data from most e-commerce websites
+Best for: price monitoring, competitor analysis, review monitoring.
+Web Scraper API
+Public data delivery from a majority of websites
+Best for: market research, sentiment analysis, brand protection.
+Oxylabs global 100M+ Residential Proxy pool is acquired from vetted suppliers that are under strict obligations to inform end-users about their participation in a proxy network and acquire consent from them. Additionally, a significant amount of these end-users receive monetary rewards. For more information on Oxylabs’ stance on the ethical acquisition of Residential Proxies, read our whitepaper.
+With Oxylabs self-service dashboard you can easily purchase Residential Proxy Starter and Business plans and stay on top of your data usage to never run out of traffic.
+Create and manage sub-users
+Whitelist IPs
+Easily upgrade your plan
+Manage proxy subscription
+Save your time and resources with a public data collection tool that has a 100% success rate and does all of the heavy-duty data extraction from majority of websites, including e-commerce and search engines.
+Learn more
+All of our products are covered by Technology Errors & Omissions (Technology E&O) and Cyber insurance.
+®
+

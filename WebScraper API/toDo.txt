@@ -1,0 +1,2 @@
+figure out why selenium wont pull the title or other tag elements text other than spans and p's
+get all common used browser drivers working with selenium
